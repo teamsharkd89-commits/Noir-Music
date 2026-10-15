@@ -1,0 +1,6 @@
+{
+  "name": "NOIR Music",
+  "description": "Reproductor de música nativo premium inspirado en TIDAL con almacenamiento local Room, metadatos reales y experiencia auditiva oscura de alta fidelidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
